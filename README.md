@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FIVEYOUNGWOO
-- 👀 I’m interested in wireless communications, reinforcement learning, federated learning, and IoT systems.
+- 👀 I’m interested in wireless communications, reinforcement learning, federated learning, and ICT-IoT systems.
 - 🌱 I'm currently learning wireless networks and deep learning, and IoT systems.
 
 <!---
