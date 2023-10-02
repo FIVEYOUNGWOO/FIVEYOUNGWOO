@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FIVEYOUNGWOO
-- 👀 I’m interested in wireless communications, reinforcement learning, federated learning, and ICT-IoT systems.
-- 🌱 I'm currently learning wireless networks and deep learning, and IoT systems.
+- 👀 I’m interested in wireless communications, reinforcement learning algorithms, and IoT systems.
+- 🌱 I'm currently learning multi-objective reinforcement learning and diffusion-RL algorithms.
+- 
 
 <!---
 FIVEYOUNGWOO/FIVEYOUNGWOO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
