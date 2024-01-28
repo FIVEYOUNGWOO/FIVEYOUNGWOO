@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FIVEYOUNGWOO
-- 👀 I’m interested in wireless communications, RF sensing, reinforcement learning, and IoT systems.
+- 👀 I’m interested in 5G/B5G, RF sensing, reinforcement learning, IoT/ICT, and multimodal AI.
 - 🌱 I'm currently learning multi-objective reinforcement learning and RF multimodal AI-based objective detection/tracking.
 
 <!---
