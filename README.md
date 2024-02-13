@@ -8,7 +8,7 @@ Mostly interested in multimodal AI, reinforcement learning-based optimization, R
 ### Recent projects:
 
 ---
-Lately leading a lab project as "multimodal AI-based human mobility detection, tracking, and motion estimation". The suggested idea is to utilize WiFi signal characteristics to improve camera-based detection and tracking performance. In addition, responsible for newly multimodal and DL/ML algorithms to apply our proposed approach. Moreover, our team will collaborate with Qualcomm Institute and UCSD up to 2027.
+Lately leading a lab project as "multimodal AI-based human mobility detection, tracking, and motion estimation". The suggested idea is to utilize WiFi signal characteristics to improve camera-based detection and tracking performance. In addition, responsible for newly multimodal and DL/ML algorithms to apply our proposed approach.
 
 ### Preferred programming Languages:
 
@@ -17,8 +17,6 @@ Lately leading a lab project as "multimodal AI-based human mobility detection, t
 * Java
 * C/C++
 * LabVIEW/MATLAB/Simulink
-* Git/Bash (some)
-* Flask/HTML (some)
 
 ### Preferred programming Frameworks:
 
