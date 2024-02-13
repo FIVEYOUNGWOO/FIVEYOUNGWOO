@@ -1,6 +1,6 @@
 ### Introduction:
 
----
+- - -
 M.S. student at Smart Networking Lab, Chosun University (2022.3-).
 
 Mostly interested in multimodal AI, reinforcement learning-based optimization, RF sensing, and 5G/B5G. Also working for applications of smart solutions (integrated IoT/ICT with deep neural nets) in computer vision and wireless communication.
