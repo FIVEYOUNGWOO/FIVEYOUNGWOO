@@ -10,13 +10,14 @@ ___
 * Python
 * Java
 * C/C++
-* LabVIEW/MATLAB/Simulink
+* LabVIEW
+* MATLAB
 ___
 
 #### Preferred programming Frameworks:
 * PyTorch/TensorFlow
-* Open AI Gym
-* LabVIEW Communications Application Frameworks
+* Open AI Gym/StableBaselines
+* LabVIEW Communications Application Frameworks/LabVIEW FPGA
 * Android Studio
 ___
 
