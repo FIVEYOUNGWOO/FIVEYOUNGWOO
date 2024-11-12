@@ -1,17 +1,19 @@
 #### Introduction:
-Mostly interested in multimodal AI, reinforcement learning-based optimization, RF sensing, and 5G/B5G. Also working for applications of smart solutions (integrated IoT/ICT with deep neural nets) in computer vision and wireless communication.
+I am primarily interested in multimodal AI, reinforcement learning-based optimization, RF sensing, and IoT-based healthcare solutions. My work focuses on developing smart solutions by integrating IoT/ICT with deep neural networks, particularly in the fields of computer vision and wireless communication.
 ___
 
 #### Recent projects:
-Lately leading a lab project as "multimodal AI-based human mobility detection, tracking, and motion estimation". The suggested idea is to utilize WiFi signal characteristics to improve camera-based detection and tracking performance. In addition, responsible for newly multimodal and DL/ML algorithms to apply our proposed approach.
+Recently, I led a lab project titled "Multimodal AI-based Human Mobility Detection, Tracking, and Motion Estimation." This project utilized WiFi signal characteristics to enhance camera-based detection and tracking performance. I was responsible for designing new multimodal and DL/ML algorithms to implement this approach.
+
+Additionally, I developed an NFC sensor logging application for a healthcare project in collaboration with the KAIST MINT Lab. This application measures and visualizes real-time human body temperature and body part pressure using multimodal NFC sensors.
 ___
 
 #### Preferred programming Languages:
 * Python
-* Java
-* C/C++
 * LabVIEW
 * MATLAB
+* Java
+* C/C++
 ___
 
 #### Preferred programming Frameworks:
