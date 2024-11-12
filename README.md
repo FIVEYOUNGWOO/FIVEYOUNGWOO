@@ -19,7 +19,7 @@ ___
 #### Preferred programming Frameworks:
 * PyTorch/TensorFlow
 * Open AI Gym/StableBaselines
-* LabVIEW Communications Application Frameworks/LabVIEW FPGA
+* LabVIEW FPGA/LabVIEW Communications Application Frameworks
 * Android Studio
 ___
 
