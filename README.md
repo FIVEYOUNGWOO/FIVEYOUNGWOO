@@ -1,14 +1,19 @@
-#### Introduction:
-I am primarily interested in multimodal AI, reinforcement learning-based network optimization, RF sensing, and IoT-based healthcare solutions. My work focuses on developing smart solutions by integrating IoT/ICT with deep neural networks, particularly in computer vision and wireless communication.
+#### Introduction :
+I am deeply passionate about the validation of Software-Defined Radio (SDR)-based wireless networks and network optimization with reinforcement learning (RL) approaches. These areas are the cornerstone of my work as a wireless communication and AI researcher at the Smart Networking Lab (SNL). I have developed expertise through two years as an undergraduate intern and subsequent M.S. studies in Computer Science at Chosun University.
 ___
 
-#### Recent projects:
-Recently, I led a lab project titled "Multimodal AI-based Human Mobility Detection, Tracking, and Motion Estimation." This project utilized WiFi signal characteristics to enhance camera-based detection and tracking performance. I was responsible for designing new multimodal and DL/ML algorithms to implement this approach.
-
-Additionally, I developed an NFC sensor logging application for a healthcare project in collaboration with the KAIST MINT Lab. This application uses multimodal NFC sensors to measure and visualize real-time human body temperature and body pressure.
+#### Research Experience 1 (During M.S. degree):
+Wireless technology has achieved remarkable advancements in frequency performance, yet these gains occur with increased energy consumption and computational complexity. To address these challenges, my work uses reinforcement learning to optimize resource allocation while balancing trade-offs between spectral and energy efficiency. Specifically, I designed the reinforcement learning algorithm for massive antenna-aided base station (BS) transmission power allocation in multi-cellular networks. This work, published in IEEE Access, received the Best Paper Award at the 33rd Joint Conference on Communications and Information (JCCI).
 ___
 
-#### Preferred programming Languages:
+#### Research Experience 2 (During B.S. degree) : 
+I also designed and validated SDR-based transceivers, including Multi-Hop Routing algorithms, TDD/TDMA, OFDM, and MIMO systems with digital signal processing techniques. These efforts resulted in nine research papers presented at international and domestic conferences, including the Best Paper Award at the 2021 Winter Conference on Korea Information and Communications Society (KICS).
+___
+
+#### Research Demonstration : 
+Lastly, I actively share my research methodologies and experimental results in wireless communication simulation and testbed development through my YouTube channel, fostering open collaboration and knowledge-sharing.
+
+#### Preferred Programming Languages : 
 * Python
 * LabVIEW
 * MATLAB
@@ -16,14 +21,14 @@ ___
 * C/C++
 ___
 
-#### Preferred programming Frameworks:
+#### Preferred Programming Frameworks :
 * PyTorch/TensorFlow
 * Open AI Gym/StableBaselines
 * LabVIEW FPGA/LabVIEW Communications Application Frameworks
 * Android Studio
 ___
 
-#### Educational Backgrounds:
+#### Educational Backgrounds :
 * M.S. in Department of Computer Engineering, Chosun University.
 * B.S. in Department of Computer Engineering, Chosun University (Summa cum Laude).
 ___
