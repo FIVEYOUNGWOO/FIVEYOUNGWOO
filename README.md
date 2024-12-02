@@ -11,7 +11,7 @@ I also designed and validated SDR-based transceivers, including Multi-Hop Routin
 ___
 
 #### Research Demonstration : 
-Lastly, I actively share my research methodologies and experimental results in wireless communication simulation and testbed development through my YouTube channel, fostering open collaboration and knowledge-sharing.
+Lastly, I actively share my research methodologies and experimental results in wireless communication simulation and testbed development through my [YouTube channel](https://www.youtube.com/@youngwooh), fostering open collaboration and knowledge-sharing.
 ___
 
 #### Preferred Programming Languages : 
