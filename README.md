@@ -8,7 +8,7 @@ ___
 
 #### Research Experience 2 (During B.S. degree) : 
 I also designed and validated SDR-based transceivers, including Multi-Hop Routing algorithms, TDD/TDMA, OFDM, and MIMO systems with digital signal processing techniques. These efforts resulted in nine research papers presented at international and domestic conferences, including the Best Paper Award at the 2021 Winter Conference on Korea Information and Communications Society (KICS).
-__
+___
 
 #### Research Demonstration : 
 Lastly, I actively share my research methodologies and experimental results in wireless communication simulation and testbed development through my YouTube channel, fostering open collaboration and knowledge-sharing.
