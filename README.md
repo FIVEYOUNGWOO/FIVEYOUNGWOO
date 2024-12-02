@@ -3,11 +3,11 @@ I am deeply passionate about the validation of Software-Defined Radio (SDR)-base
 ___
 
 #### Research Experience 1 (During M.S. degree):
-Wireless technology has achieved remarkable advancements in frequency performance, yet these gains occur with increased energy consumption and computational complexity. To address these challenges, my work uses reinforcement learning to optimize resource allocation while balancing trade-offs between spectral and energy efficiency. Specifically, I designed the reinforcement learning algorithm for massive antenna-aided base station (BS) transmission power allocation in multi-cellular networks. This work, published in IEEE Access, received the Best Paper Award at the 33rd Joint Conference on Communications and Information (JCCI).
+Wireless technology has achieved remarkable advancements in frequency performance, yet these gains occur with increased energy consumption and computational complexity. To address these challenges, my work uses reinforcement learning to optimize resource allocation while balancing trade-offs between spectral and energy efficiency. Specifically, I designed the reinforcement learning algorithm for massive antenna-aided base station (BS) transmission power allocation in multi-cellular networks. This work, published in _IEEE Access_, received the Best Paper Award at the _33rd Joint Conference on Communications and Information (JCCI)_.
 ___
 
 #### Research Experience 2 (During B.S. degree) : 
-I also designed and validated SDR-based transceivers, including Multi-Hop Routing algorithms, TDD/TDMA, OFDM, and MIMO systems with digital signal processing techniques. These efforts resulted in nine research papers presented at international and domestic conferences, including the Best Paper Award at the 2021 Winter Conference on Korea Information and Communications Society (KICS).
+I also designed and validated SDR-based transceivers, including Multi-Hop Routing algorithms, TDD/TDMA, OFDM, and MIMO systems with digital signal processing techniques. These efforts resulted in nine research papers presented at international and domestic conferences, including the Best Paper Award at the _2021 Winter Conference on Korea Information and Communications Society (KICS)_.
 ___
 
 #### Research Demonstration : 
