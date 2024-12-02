@@ -1,5 +1,5 @@
 #### Introduction :
-I am deeply passionate about the validation of Software-Defined Radio (SDR)-based wireless networks and network optimization with reinforcement learning (RL) approaches. These areas are the cornerstone of my work as a wireless communication and AI researcher at the Smart Networking Lab (SNL). I have developed expertise through two years as an undergraduate intern and subsequent M.S. studies in Computer Science at Chosun University.
+I am deeply passionate about designing and validating Software-Defined Radio (SDR)-based wireless networks and optimizing them using reinforcement learning (RL) approaches. Over two years as an undergraduate intern and during my M.S. studies at the Smart Networking Lab (SNL) in Computer Science at Chosun University, I have developed expertise in wireless communications.
 ___
 
 #### Research Experience 1 (During M.S. degree):
