@@ -23,10 +23,11 @@ ___
 ___
 
 #### Preferred Programming Frameworks :
-* PyTorch/TensorFlow
-* Open AI Gym/StableBaselines
-* LabVIEW FPGA/LabVIEW Communications Application Frameworks
-* Android Studio
+* PyTorch/TensorFlow (For Deep Learning Development)
+* Open AI Gym/StableBaselines (For Reinforcement Learning Development)
+* LabVIEW FPGA/LabVIEW Communications Application Frameworks (For Wireless Communication System Design and Validation)
+* Python Flask (For Backend development)
+* Android Studio/Java (For Mobile Application development)
 ___
 
 #### Educational Backgrounds :
