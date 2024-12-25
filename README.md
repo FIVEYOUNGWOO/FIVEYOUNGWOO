@@ -1,5 +1,5 @@
 #### Introduction :
-I am deeply passionate about designing and validating Software-Defined Radio (SDR)-based RF simulators/networks and optimizing them using reinforcement learning (RL) approaches. Over two years as an undergraduate intern and during my M.S. studies at the Smart Networking Lab (SNL) in Computer Science at Chosun University, I developed expertise in wireless communications and RF-based sensing.
+I am deeply passionate about designing and validating Software-Defined Radio (SDR)-based radio frequency (RF) simulators/networks and optimizing them using reinforcement learning (RL) approaches. Over two years as an undergraduate intern and during my M.S. studies at the Smart Networking Lab (SNL) in Computer Science at Chosun University, I developed expertise in wireless communications and RF-based sensing.
 ___
 
 #### Research Experience 1 (During M.S. degree):
