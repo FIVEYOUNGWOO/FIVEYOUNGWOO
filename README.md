@@ -3,7 +3,7 @@ I am deeply passionate about designing and validating Software-Defined Radio (SD
 ___
 
 #### Research Experience 1 (During M.S. degree):
-Wireless technology has achieved remarkable advancements in frequency performance, yet these gains occur with increased energy consumption and computational complexity. To address these challenges, my work uses reinforcement learning to optimize resource allocation while balancing spectral and energy efficiency trade-offs. Specifically, I designed the reinforcement learning algorithm for massive antenna-aided base station (BS) transmission power allocation in multi-cellular networks. This work, published in _IEEE Access_, received the Best Paper Award at the _33rd Joint Conference on Communications and Information (JCCI)_.
+Wireless technology has achieved remarkable advancements in frequency performance, yet these gains occur with increased energy consumption and computational complexity. To address these challenges, my work uses reinforcement learning to optimize wireless resource allocation while balancing spectral and energy efficiency trade-offs. Specifically, I designed the reinforcement learning algorithm for massive antenna-aided base station (BS) transmission power allocation in multi-cellular networks. This work, published in _IEEE Access_ and received the Best Paper Award at the _33rd Joint Conference on Communications and Information (JCCI)_.
 ___
 
 #### Research Experience 2 (During B.S. degree) : 
