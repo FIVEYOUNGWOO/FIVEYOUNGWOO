@@ -9,7 +9,7 @@ Wireless technology has achieved remarkable advancements in frequency performanc
 ___
 
 #### Research Experience 2 (During B.S. degree) : 
-I designed and validated RF simulators and SDR-based RF transceivers, incorporating multi-hop routing algorithms, TDD/TDMA, OFDM, and MIMO systems using digital signal processing techniques. These efforts led to the presentation of nine research papers at international and domestic conferences, including receiving the Best Paper Award at the _2021 Winter Conference of the Korea Information and Communications Society (KICS)_.
+I designed and validated RF simulators and SDR-based RF transceivers, incorporating multi-hop routing algorithms, TDD/TDMA, OFDM, and MIMO systems using digital signal processing techniques. These efforts led to nine research papers presented at international and domestic conferences, one of which received the Best Paper Award at _the 2021 Winter Conference of the Korea Information and Communications Society (KICS)_.
 ___
 
 #### Research Demonstration : 
