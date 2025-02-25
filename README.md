@@ -1,15 +1,14 @@
 #### Introduction :
-I am deeply passionate about designing and validating Software-Defined Radio (SDR)-based radio frequency (RF) simulators/networks and optimizing them using reinforcement learning (RL) approaches. Over two years as an undergraduate intern and during my M.S. studies at the _Smart Networking Lab_ in Computer Engineering at _Chosun University_, I developed expertise in wireless communications and RF-based sensing.
-
+I am deeply passionate about designing and validating Software-Defined Radio (SDR)-based radio frequency (RF) simulators/networks and optimizing them using reinforcement learning (RL) approaches. Over two years as an undergraduate intern and during my M.S. studies at the _Smart Networking Lab_ in the Department of Computer Engineering at Chosun University, I developed expertise in wireless communications and RF-based sensing.  
 My research journey continues as I join _HL Klemove_ in March 2025, contributing to the advancement of autonomous driving solutions.
 ___
 
 #### Research Experience 1 (During M.S. degree):
-Wireless technology has achieved remarkable advancements in frequency performance, yet these gains occur with increased energy consumption and computational complexity. To address these challenges, my work uses reinforcement learning to optimize wireless resource allocation while balancing spectral and energy efficiency trade-offs. Specifically, I designed the reinforcement learning algorithm for massive antenna-aided base station (BS) transmission power allocation in multi-cellular networks. This work, published in _IEEE Access_ and received the Best Paper Award at the _33rd Joint Conference on Communications and Information (JCCI)_.
+Wireless technology has achieved remarkable advancements in frequency performance, yet these gains come with increased energy consumption and computational complexity. To address these challenges, my work focuses on leveraging reinforcement learning to optimize wireless resource allocation while balancing trade-offs between spectral and energy efficiency. Specifically, I designed the reinforcement learning algorithm for massive antenna-aided base station (BS) transmission power allocation in multi-cellular networks. This work was published in _IEEE Access_ and received the Best Paper Award at the _33rd Joint Conference on Communications and Information (JCCI)_.
 ___
 
 #### Research Experience 2 (During B.S. degree) : 
-I designed and validated RF simulators and SDR-based RF transceivers, incorporating Multi-Hop Routing algorithms, TDD/TDMA, OFDM, and MIMO systems using digital signal processing techniques. These efforts led to the presentation of nine research papers at international and domestic conferences, including receiving the Best Paper Award at the _2021 Winter Conference on Korea Information and Communications Society (KICS)_.
+I designed and validated RF simulators and SDR-based RF transceivers, incorporating multi-hop routing algorithms, TDD/TDMA, OFDM, and MIMO systems using digital signal processing techniques. These efforts led to the presentation of nine research papers at international and domestic conferences, including receiving the Best Paper Award at the _2021 Winter Conference of the Korea Information and Communications Society (KICS)_.
 ___
 
 #### Research Demonstration : 
