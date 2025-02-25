@@ -1,5 +1,6 @@
 #### Introduction :
 I am deeply passionate about designing and validating Software-Defined Radio (SDR)-based radio frequency (RF) simulators/networks and optimizing them using reinforcement learning (RL) approaches. Over two years as an undergraduate intern and during my M.S. studies at the _Smart Networking Lab_ in the Department of Computer Engineering at Chosun University, I developed expertise in wireless communications and RF-based sensing.  
+
 My research journey continues as I join _HL Klemove_ in March 2025, contributing to the advancement of autonomous driving solutions.
 ___
 
