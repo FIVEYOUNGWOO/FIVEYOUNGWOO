@@ -5,7 +5,7 @@ My research journey continues as I join _HL Klemove_ in March 2025, contributing
 ___
 
 #### Research Experience 1 (During M.S. degree):
-Wireless technology has achieved remarkable advancements in frequency performance, yet these gains come with increased energy consumption and computational complexity. To address these challenges, my work focuses on leveraging reinforcement learning to optimize wireless resource allocation while balancing trade-offs between spectral and energy efficiency. Specifically, I designed the reinforcement learning algorithm for massive antenna-aided base station (BS) transmission power allocation in multi-cellular networks. This work was published in _IEEE Access_ and received the Best Paper Award at the _33rd Joint Conference on Communications and Information (JCCI)_.
+Wireless technology has achieved remarkable advancements in frequency performance, yet these gains come with increased energy consumption and computational complexity. To address these challenges, my work focuses on leveraging RL to optimize wireless resource allocation while balancing trade-offs between spectral and energy efficiency. Specifically, I designed the multi-objective reinforcement learning algorithm for massive antenna-aided base station (BS) transmission power allocation in multi-cellular networks. This work was published in _IEEE Access_ and received the Best Paper Award at the _33rd Joint Conference on Communications and Information (JCCI)_.
 ___
 
 #### Research Experience 2 (During B.S. degree) : 
